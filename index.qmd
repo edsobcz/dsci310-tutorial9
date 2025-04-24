@@ -1,0 +1,10 @@
+---
+title: "DSCI 310 Tutorial 9"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Yay, here I am making a website for practice! 
+I wonder if I can try adding emojis in this... :tada:
