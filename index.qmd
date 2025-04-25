@@ -8,3 +8,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Yay, here I am making a website for practice! 
 I wonder if I can try adding emojis in this... :tada:
+
+Now I make other changes to see if it does anything...
+
+Now I am making a third change to see if anything happens...
